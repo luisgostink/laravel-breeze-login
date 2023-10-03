@@ -68,3 +68,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 #### Google Docs Excercise Link: 
 https://docs.google.com/document/d/1V3B4vB3WyM_07ojG71-OT8HqXsEwnWVr/edit#heading=h.gjdgxs
+
+#### Repositories 
+https://github.com/luisgostink/laravel-breeze-login
+
+https://github.com/opportunity-zh/laravel-playground#install-breeze
+
+https://github.com/opportunity-zh/mini-twitter/blob/main/README.md
